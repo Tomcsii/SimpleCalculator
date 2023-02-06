@@ -1,5 +1,3 @@
-package Calculator_Tamas_Borbely;
-
 //BY TAMAS BORBELY
 
 import java.awt.*;
